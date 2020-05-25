@@ -1,0 +1,48 @@
+font {
+text-align: center;
+
+}
+
+header {
+background-color: rgba(0, 0, 0, 0.338);
+text-align: center;
+text-decoration:white;
+
+
+
+
+
+
+}
+
+header a {
+text-decoration:none ;
+color: white;
+font-size: 12px;
+padding-left: 10px;
+padding-right: 10px;
+
+
+
+}
+
+nav {
+
+    text-align: center;
+
+}
+
+body {
+background-color: gray;
+background-image: url(ummio2);
+
+
+}
+footer {
+
+color: white;
+font-size: 12;
+text-align: center;
+
+}
+
